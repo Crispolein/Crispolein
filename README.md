@@ -36,7 +36,11 @@ Estos son algunos de los proyectos en los que he trabajado y que demuestran mis 
 -   **Descripción:** Optimización y despliegue de la página web y aplicación móvil Noche Austral, un proyecto académico para la divulgación astronómica.
 -   **Funciones clave:** Desarrollo de funcionalidades de backend con Python, gestión de base de datos (PostgreSQL y Firebase) y despliegue.
 
-#### Gesitech (Proyecto de la empresa)
+### Migtra
+-   **Descripción:** Proyecto de monitoreo para recursos de AWS
+-   **Funciones clave:** Seguimiento de los recursos de AWS para asegurar el flujo de trabajo correcto y disminuir errores para otras áreas
+  
+#### Gesitech 
 -   **Descripción:** Proyecto de desarrollo de aplicaciones móviles con Dart/Flutter.
 -   **Funciones clave:** Diseño y desarrollo de APIs para la comunicación entre el frontend y el backend, y gestión de bases de datos en Firebase.
 
@@ -51,5 +55,5 @@ Actualmente, estoy explorando áreas como la inteligencia artificial y el análi
 ### 📫 Contáctame
 
 -   **Email:** chris.ery@hotmail.com
--   **LinkedIn:** [Tu enlace de LinkedIn aquí]
--   **Portafolio:** [Tu enlace de Portafolio aquí]
+-   **LinkedIn:** https://www.linkedin.com/in/christianrangelintriago
+-   **Portafolio:** https://portafolio-roan-phi.vercel.app
