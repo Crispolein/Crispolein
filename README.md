@@ -1,59 +1,25 @@
-# ¡Hola, soy Christian! 👋
+# Christian Rangel
 
-Soy Ingeniero Civil Informático con experiencia en el desarrollo de aplicaciones web y móvil, especializado en el rol de Desarrollador Backend. Mi enfoque principal es la creación de soluciones funcionales y eficientes, con un dominio de tecnologías clave como **Python**, **PostgreSQL**, **Linux** y **Git**.
+Backend Developer en Migtra desde enero de 2025. Migtra es una startup que mide el riesgo de conducción con datos GPS. Mantengo sus productos en producción, resuelvo incidencias y lidero a 2 devs junior.
 
-Me motiva seguir creciendo profesionalmente, aportando al trabajo en equipo y la innovación constante para generar un impacto real.
+Trabajo con Python, Django y FastAPI sobre AWS. Uso IA todos los días y construyo herramientas internas para que el equipo deje de depender de soporte.
 
----
+**Portafolio:** https://portafolio-roan-phi.vercel.app
 
-### 💻 Tecnologías y Herramientas
+### En qué ando
 
-Aquí están algunas de las tecnologías y herramientas con las que he trabajado:
+- **CV Optimizer Pro.** Un coach IA te entrevista y un auditor marca lo que exageras. El CV sale con lo que puedes defender en una entrevista. Django, HTMX y Claude API.
+- **Job Hunter Platform.** Revisa 3 portales de empleo cada 2 horas y ordena las ofertas según mi perfil con IA. FastAPI, Celery y React.
+- **Pokémon TCG AI Battle Agent.** Agente de refuerzo multi agente para la competencia Kaggle 2026.
 
-**Lenguajes y Frameworks:**
--   **Python:** Django, Flask
--   **Dart:** Flutter
--   HTML
+Estos repos son privados. El detalle de cada uno está en el portafolio.
 
-**Bases de Datos:**
--   PostgreSQL
--   Firebase
--   MongoDB
+### Repos públicos
 
-**DevOps y Herramientas:**
--   Git, Bitbucket
--   Jira
--   Docker
--   Linux
+- [Astroapp](https://github.com/Crispolein/Astroapp) y [Astroweb](https://github.com/Crispolein/Astroweb): Noche Austral, mi proyecto de título. App Flutter y CMS Django de divulgación astronómica.
+- [rl-fundamentos](https://github.com/Crispolein/rl-fundamentos): notebooks de aprendizaje por refuerzo, PPO y self-play.
+- [portafolio](https://github.com/Crispolein/portafolio): el código del sitio, en React y TypeScript.
 
----
+### In English
 
-### 🚀 Proyectos Destacados
-
-Estos son algunos de los proyectos en los que he trabajado y que demuestran mis habilidades:
-
-#### Noche Austral
--   **Descripción:** Optimización y despliegue de la página web y aplicación móvil Noche Austral, un proyecto académico para la divulgación astronómica.
--   **Funciones clave:** Desarrollo de funcionalidades de backend con Python, gestión de base de datos (PostgreSQL y Firebase) y despliegue.
-
-### Migtra
--   **Descripción:** Proyecto de monitoreo para recursos de AWS
--   **Funciones clave:** Seguimiento de los recursos de AWS para asegurar el flujo de trabajo correcto y disminuir errores para otras áreas
-  
-#### Gesitech 
--   **Descripción:** Proyecto de desarrollo de aplicaciones móviles con Dart/Flutter.
--   **Funciones clave:** Diseño y desarrollo de APIs para la comunicación entre el frontend y el backend, y gestión de bases de datos en Firebase.
-
----
-
-### 🔭 ¿Qué sigue?
-
-Actualmente, estoy explorando áreas como la inteligencia artificial y el análisis de datos para seguir expandiendo mis conocimientos. Estoy abierto a nuevas oportunidades y colaboraciones.
-
----
-
-### 📫 Contáctame
-
--   **Email:** chris.ery@hotmail.com
--   **LinkedIn:** https://www.linkedin.com/in/christianrangelintriago
--   **Portafolio:** https://portafolio-roan-phi.vercel.app
+Backend Developer at Migtra, a startup that scores driving risk from GPS data. Python, Django and FastAPI on AWS, with AI at every stage. More in the portfolio above.
